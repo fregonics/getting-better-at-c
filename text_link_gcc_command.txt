@@ -1,0 +1,1 @@
+gcc -o out/test_linking test_linking.c -Wall -g -lm
